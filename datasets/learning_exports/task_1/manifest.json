@@ -1,0 +1,43 @@
+{
+  "exported_at": "2026-03-23T18:56:25.288406",
+  "task_id": 1,
+  "crop_type": "苹果",
+  "disease_name": "苹果健康",
+  "description": "无",
+  "symptoms": "1",
+  "prevention": "2",
+  "treatment": "3",
+  "image_count": 10,
+  "images": [
+    {
+      "file_name": "7b4b84c65e1e68428490d9df1827edb6.jpg"
+    },
+    {
+      "file_name": "036e9351-118e-4795-9f80-74c369b98c88___RS_HL 7513.JPG"
+    },
+    {
+      "file_name": "387a6fd7bd6d0be11dce3bced3842d40.jpg"
+    },
+    {
+      "file_name": "1305c307ed7d5b9c8831260e0fc3d1c6.jpg"
+    },
+    {
+      "file_name": "a42d0fa79b531aff47fdd62ba5a83e93.jpg"
+    },
+    {
+      "file_name": "af2972a9-c62d-44bf-a5df-45c0bdf70572___RS_HL 5835.JPG"
+    },
+    {
+      "file_name": "b0c12265c5f5658ff22f68383dcee8b9.jpg"
+    },
+    {
+      "file_name": "f472e594-6b98-402a-a097-22f46921df9e___RS_HL 7818.JPG"
+    },
+    {
+      "file_name": "f544e7981dc2ddd9e4143ea53243d000.jpg"
+    },
+    {
+      "file_name": "f9952d3a-f286-4863-8667-b8921416b8be___RS_HL 5810.JPG"
+    }
+  ]
+}

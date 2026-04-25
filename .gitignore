@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.db
+/data.db
+/data/*.db
+/venv/
+.env
+logs/
+backups/
+processed_images/
+auto_images/
+uploads/
+models/model.pth
+docx/
+ignore/

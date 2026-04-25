@@ -1,0 +1,12 @@
+[2026-03-23T18:56:25] job_id=1, task_id=1, task_status=approved
+[2026-03-23T18:56:25] device=cpu
+[2026-03-23T18:56:25] dataset_exported: C:\Users\ma_xi\Desktop\web_app\datasets\learning_exports\task_1
+[2026-03-23T18:56:25] class expansion: 59 -> 60, new_class_id=59
+[2026-03-23T18:56:26] samples: new=10, custom_replay=0, base_replay=295, total=305
+[2026-03-23T18:56:26] hyperparams: epochs=5, lr=0.0005, batch_size=16
+[2026-03-23T18:56:48] epoch 1/5 loss=1.359933
+[2026-03-23T18:57:06] epoch 2/5 loss=0.943748
+[2026-03-23T18:57:27] epoch 3/5 loss=0.914025
+[2026-03-23T18:57:45] epoch 4/5 loss=0.879982
+[2026-03-23T18:58:04] epoch 5/5 loss=0.734938
+[2026-03-23T18:58:04] 增量训练完成：已将学习任务映射到 class_id=59，并发布新模型。
