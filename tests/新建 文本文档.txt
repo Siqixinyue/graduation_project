@@ -1,9 +1,0 @@
-https://github.com/spytensor/plants_disease_detection
-
-通读项目，按照以下内容为本项目撰写一篇毕设项目论文（项目中resnet50模型的来源是 https://github.com/spytensor/plants_disease_detection ）：
-
-1.内容格式参考“docx”文件夹中的“2022014062_王梦可_计算机科学与技术 _面向智能停车场的车牌识别与管理系统的设计与实现”，其中有涉及到图片的地方告诉我一声，我会将图片补上，你只需要把图片以外的内容生成即可
-
-2.章节分为第一章绪论、第二章相关理论、第三章基于ResNet50的病害分类模型（参考 https://github.com/spytensor/plants_disease_detection 和项目中的"retnet50训练过程"文件夹）、第四章系统设计与实现、第五章系统测试与评估、第六章总结与展望
-
-3.要求字数不低于15000字
