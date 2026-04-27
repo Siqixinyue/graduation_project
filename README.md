@@ -1,2 +1,1 @@
-graduationprojectgit-tgzghcrzq5g7alcc6xjvqk.streamlit.app
 cdezmgmrsgde2wypcuafws.streamlit.app
