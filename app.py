@@ -388,7 +388,7 @@ if "menu" not in st.session_state:
     st.session_state.menu = "仪表盘"  # 当前选中的菜单项
 
 # 加载AI模型
-model_path = "models/version/model_v1.pth"  # 模型文件路径
+model_path = "models/model.pth"  # 模型文件路径
 model_mtime = os.path.getmtime(model_path) if os.path.exists(model_path) else 0.0  # 获取模型文件修改时间
 model = get_model(model_path, model_mtime)  # 加载或获取缓存的模型
 
